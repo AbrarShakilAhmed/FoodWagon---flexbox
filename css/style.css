@@ -140,6 +140,18 @@ nav button img,
   flex: 1 1 50%;
   margin: 20px;
 }
+.special-product p {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.special-product button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgba(241, 114, 40, 0.2);
+  color: #f17228;
+  font-weight: bold;
+}
 
 .special-product img {
   width: 100%;
